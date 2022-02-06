@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Grades", "04.Grades\04.G
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.GameOfIntervals", "05.GameOfIntervals\05.GameOfIntervals.csproj", "{3B36473C-F5D2-489B-81F9-EE2D3D59FB87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Bills", "06.Bills\06.Bills.csproj", "{C769BD7A-87E7-45AB-984E-DF4589672B2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Bills", "06.Bills\06.Bills.csproj", "{C769BD7A-87E7-45AB-984E-DF4589672B2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.FootballLeague", "07.FootballLeague\07.FootballLeague.csproj", "{289B152E-52A9-48E6-9A76-A2A94C0F68EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.FootballLeague", "07.FootballLeague\07.FootballLeague.csproj", "{289B152E-52A9-48E6-9A76-A2A94C0F68EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.EqualPairs", "08.EqualPairs\08.EqualPairs.csproj", "{179CA4D5-FA51-42BA-AA20-18B455764EEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{289B152E-52A9-48E6-9A76-A2A94C0F68EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{289B152E-52A9-48E6-9A76-A2A94C0F68EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{289B152E-52A9-48E6-9A76-A2A94C0F68EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179CA4D5-FA51-42BA-AA20-18B455764EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179CA4D5-FA51-42BA-AA20-18B455764EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179CA4D5-FA51-42BA-AA20-18B455764EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179CA4D5-FA51-42BA-AA20-18B455764EEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
